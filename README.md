@@ -5,10 +5,18 @@ I literally started on a brownfield land. The main task was rebuilt old flat for
 
 Sometimes I had a problem to find a reliable serial furniture. And I had to meke own design. Fox example wardrobe and unusal narrow beside tables.
 
-## ISO view
+## Main view
+### ISO and Top view
 <p float="left">
   <img src="/Photo/Flat_1.PNG" width="700" /> 
   <img src="/Photo/Flat_2.PNG" width="700" />
+</p>
+
+### Detail of my living room
+<p float="left">
+  <img src="/Photo/LivingRoom_1.PNG" width="300" /> 
+  <img src="/Photo/LivingRoom_2.PNG" width="300" />
+  <img src="/Photo/LivingRoom_3.PNG" width="300" />
 </p>
 
 ## Own Design of Forniture

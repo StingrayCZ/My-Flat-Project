@@ -27,6 +27,11 @@ Sometimes I had a problem to find a reliable serial furniture. And I had to meke
   <img src="/Photo/Wardrobe_2.png" width="700" />
 </p>
 
+### Table
+<p float="left">
+  <img src="/Photo/Table_1.PNG" width="500" /> 
+</p>
+
 ### Coffee table
 <p float="left">
   <img src="/Photo/Coffee table_1.PNG" width="500" /> 

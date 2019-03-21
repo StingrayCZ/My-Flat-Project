@@ -14,9 +14,9 @@ Sometimes I had a problem to find a reliable serial furniture. And I had to meke
 
 ### Detail of my living room
 <p float="left">
+  <img src="/Photo/LivingRoom_3.PNG" width="600" />
   <img src="/Photo/LivingRoom_1.PNG" width="300" /> 
   <img src="/Photo/LivingRoom_2.PNG" width="300" />
-  <img src="/Photo/LivingRoom_3.PNG" width="300" />
 </p>
 
 ## Own Design of Forniture

@@ -14,8 +14,8 @@ Sometimes I had a problem to find a reliable serial furniture. And I had to meke
 ## Own Design of Forniture
 ### Wardrobe
 <p float="left">
-  <img src="/Photo/Wardrobe_1.png" width="500" /> 
-  <img src="/Photo/Wardrobe_3.png" width="500" />
+  <img src="/Photo/Wardrobe_1.png" width="300" /> 
+  <img src="/Photo/Wardrobe_3.png" width="300" />
   <img src="/Photo/Wardrobe_2.png" width="700" />
 </p>
 

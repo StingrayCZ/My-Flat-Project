@@ -19,7 +19,7 @@ Sometimes I had a problem to find a reliable serial furniture. And I had to meke
   <img src="/Photo/LivingRoom_2.PNG" width="300" />
 </p>
 
-## Own Design of Forniture
+## Own Design of Furniture
 ### Wardrobe
 <p float="left">
   <img src="/Photo/Wardrobe_1.png" width="350" /> 

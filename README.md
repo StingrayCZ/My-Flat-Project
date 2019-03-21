@@ -10,10 +10,7 @@ I literally started on a brownfield land. The main task was rebuilt old flat for
 </p>
 
 ## ISO view
-<p float="left">
-  <img src="/Photo/Flat_1.PNG" width="700" /> 
-  <img src="/Photo/Flat_2.PNG" width="700" />
-</p>
+
 
 ## Details
 

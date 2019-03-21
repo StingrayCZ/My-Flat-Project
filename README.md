@@ -12,9 +12,14 @@ Sometimes I had a problem to find a reliable serial furniture. And I had to meke
 </p>
 
 ## Own Design of Forniture
+### Wardrobe
+<p float="left">
+  <img src="/Photo/Wardrobe_1.PNG" width="700" /> 
+  <img src="/Photo/Wardrobe_2.PNG" width="700" />
+  <img src="/Photo/Wardrobe_3.PNG" width="700" />
+</p>
 
-
-## Details
+## Other details
 
 <p float="left">
   <img src="/Photo/WC.PNG" width="300" />

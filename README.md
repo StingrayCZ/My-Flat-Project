@@ -40,9 +40,9 @@ Sometimes I had a problem to find a reliable mass produced furniture. And I had 
 ## Other details
 
 <p float="left">
-  <img src="/Photo/WC.PNG" width="200" />
-  <img src="/Photo/Clothes Peg.PNG" width="200" />
-  <img src="/Photo/Heating.PNG" width="200" />
+  <img src="/Photo/WC.PNG" width="275" />
+  <img src="/Photo/Clothes Peg.PNG" width="275" />
+  <img src="/Photo/Heating.PNG" width="275" />
 </p>
 
 

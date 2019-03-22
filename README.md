@@ -3,7 +3,7 @@ This project is origin from 2011 when I flew away from my maternity nest and fil
 
 I literally started on a brownfield land. The main task was rebuilt old flat for four member family into flat with three independentaly rooms for young students. I was absolutely untouched by architecture thingking or design apartment. First of all I slinked on the floor with a tape measure and find out all of length and matches of each rooms. I measured WC room as well.  After heaped up every dimensions I made model of my flat in SolidWorks. Afterwards I visited several shops with furniture, spend much times with catalogues about design. The prime detail for making decisions was the cost. Choosed pieces I carried forward to 3D models. 
 
-Sometimes I had a problem to find a reliable mass produced furniture. And I had to make own design. Fox example wardrobe and unusal narrow beside tables.
+Sometimes I had a problem to find a reliable mass produced furniture. And I had to make own design. Fox example a wardrobe and unusal narrow beside tables.
 
 ## Main view
 ### ISO and Top view
